@@ -11,14 +11,11 @@ hidden: false
 
 차근차근 하나씩 하나씩.
 
-'''python
+```python
 def sayHello(name):
   print('Hello %s!'%name)
  
 sayHello('rosemble')
-'''
-```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
 ```
+
+# Hello rosemble!
